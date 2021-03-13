@@ -5,9 +5,9 @@ cssutils
 
 [![Build Status](https://travis-ci.org/rennat/pynliner.png?branch=master)](https://travis-ci.org/rennat/pynliner)
 
-- [PyPI page](http://pypi.python.org/pypi/pynliner)
-- [PyPI documentation](http://pythonhosted.org/pynliner)
-- [GitHub project page](http://github.com/rennat/pynliner)
+- [PyPI page](https://pypi.org/project/pynliner/)
+- [Documentation](https://pythonhosted.org/pynliner/)
+- [GitHub project page](https://github.com/rennat/pynliner)
 
 ## License
 
